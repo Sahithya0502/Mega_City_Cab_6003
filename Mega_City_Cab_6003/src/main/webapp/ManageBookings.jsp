@@ -145,7 +145,7 @@
 
   <main class="content">
     <h1>Manage Your Bookings</h1>
-    <p>To maintain your business current and well-organised, you may quickly enter hire charge and finish hires and view your bookings. To effectively manage every booking, use the selections beneath.</p>
+    
     <div class="button-grid">
       <a href="EnterHireCharge.jsp">Enter Hire Charge</a>
       <a href="FinishJourney.jsp">Finish Journey</a>
