@@ -111,7 +111,7 @@
 
   <main class="content">
     <h1>Welcome, Admin!</h1>
-    <p>To easily handle the important areas of your admin dashboard, utilise the sidebar. To guarantee that your consumers have a seamless expertise, maintain the whole thing organised.</p>
+     
   </main>
 </body>
 </html>

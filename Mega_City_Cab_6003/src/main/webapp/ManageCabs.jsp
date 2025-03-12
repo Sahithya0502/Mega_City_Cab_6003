@@ -145,7 +145,7 @@
 
   <main class="content">
     <h1>Manage Your Cabs</h1>
-    <p>To maintain your business current and well-organised, you may quickly add and browse taxis. To effectively manage every cab, use the selections beneath.</p>
+    
     <div class="button-grid">
       <a href="AddCabs.jsp">Add New Cabs</a>
       <a href="UpdateCabs.jsp">Update Added Cabs</a>
