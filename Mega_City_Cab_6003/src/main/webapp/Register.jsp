@@ -142,7 +142,7 @@
     
     function PasswordLengthLong(CustomerPassword) {
       if (CustomerPassword.length<5) {
-        alert("Dear Customer, Password must have more than 4 characters!");
+        alert("Dear Customer, Password must have 4 or more than 4 characters!");
         return false;
       }
       return true;
